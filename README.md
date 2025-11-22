@@ -66,7 +66,7 @@ Autônomos com renda baixa a média, risco intermediário e atrasos distribuído
 ## 📄 Relatório Completo
 
 📌 **Relatório oficial do projeto (PDF):**  
-[Segmentação_de_Clientes_e_Análise_de_Risco_PE.pdf](/mnt/data/Segmentação_de_Clientes_e_Análise_de_Risco_PE.pdf)
+[Segmentação_de_Clientes_e_Análise_de_Risco_PE.pdf](report/Segmentação_de_Clientes_e_Análise_de_Risco_PE.pdf)
 
 ---
 
